@@ -8,7 +8,7 @@
 
 ## 相關團體（Taiwan)
 
-- [Golang Taiwan](http://golang.kktix.cc/) [[Slack](https://golangtw-slackin.herokuapp.com/)]
+- [Golang Taiwan](http://golang.kktix.cc/) 
 
 ## 相關社群網站
 
@@ -21,6 +21,10 @@
   - [Go 程式語言](https://www.facebook.com/groups/269001993248363/)
   - [Golang Gopher Taiwan](https://www.facebook.com/groups/1667684473462867/)
 
+- Slack
+  - [[英文] Gopher: 官方 Golang 社群](http://coc.golangbridge.org/)
+  - [[中文] Golang Taiwan](https://golangtw-slackin.herokuapp.com/)]
+  - [[中文] Soft & Share](https://softnshare.herokuapp.com/)
 
 ## 相關電子報
 

@@ -29,3 +29,7 @@
 ## 相關電子報
 
 - [碼天狗(不定期有 Golang 專欄)](http://weekly.codetengu.com/)
+
+## 台灣開源專案開發者列表 
+
+請參照 [Github Award Taiwan for Go](http://github-awards.com/users?country=taiwan&language=go) 這是依照 Github Open Source 的 Star 數字來排名．

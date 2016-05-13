@@ -7,7 +7,7 @@
 
 ## 相關團體（Taiwan)
 
-- [Golang Taiwan](http://golang.kktix.cc/) [slack](https://golangtw-slackin.herokuapp.com/)
+- [Golang Taiwan](http://golang.kktix.cc/) [[Slack](https://golangtw-slackin.herokuapp.com/)]
 
 ## 相關社群網站
 

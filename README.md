@@ -22,3 +22,6 @@
   - [Golang Gopher Taiwan](https://www.facebook.com/groups/1667684473462867/)
 
 
+## 相關電子報
+
+- [碼天狗(不定期有 Golang 專欄)](http://weekly.codetengu.com/)

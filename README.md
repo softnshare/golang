@@ -34,3 +34,6 @@
 ## 台灣開源專案開發者列表 
 
 請參照 [Github Award Taiwan for Go](http://github-awards.com/users?country=taiwan&language=go) 這是依照 Github Open Source 的 Star 數字來排名．
+
+## 使用github issue寫微部落格
+如果你有Go language技術開發心得, 想要與slack channel中的網友分享, 可以透過[github issue](https://github.com/softnshare/golang/issues)來發佈你的心得分享, 發佈後會同步到slack channel , 要加入分享行列請來信與我聯絡 my@esast.com 請註明Golang

@@ -4,7 +4,8 @@
 
 ## 相關學習資源
 
-
+- [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/learn-how-to-code)
+  - 相當基礎的程式設計課程，使用 Golang 讓你更快更容易學會程式設計． 
 
 ## 相關團體（Taiwan)
 
